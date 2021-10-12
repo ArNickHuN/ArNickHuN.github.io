@@ -1,10 +1,28 @@
 body {
     background-image:  url("assets/topography.png");
     font-family: Courier;
-    margin-top: 0px;
-    margin-left: 0%;
-    margin-right: 0%;
+	margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+	margin-bottom: 0px;
     }
+
+p {
+	margin-top: 0px;
+	line-height: 3.5;
+}
+
+a:link {
+	color: #ff0099;
+}
+
+a:visited {
+	color: #ff0099;
+}
+
+a:hover {
+	color: #ff0099;
+}
 
 h1 {
     font-family: 'Open Sans', sans-serif;
@@ -24,10 +42,6 @@ h3 {
     margin-left: 10%;
     margin-right: 10%;
     }
-
-.navbar {
-    line-height: 30px;
-}
 
 .center {
         text-align: center;
